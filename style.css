@@ -1,0 +1,57 @@
+body, p, a {
+ font-family: 'Dosis', sans-serif;
+
+ text-align: center;
+ margin: 0;
+}
+
+#hero {
+ width: 592px;
+ margin: 0 auto 72px;
+}
+
+#hero img {
+ margin-bottom: 72px;
+}
+
+h1 {
+ font-family: 'Inter', dosis;
+ font-size: 32px;
+ line-height: 56px;
+ font-weight: normal;
+
+ margin-bottom: 32px;
+}
+
+h1 span {
+ font-weight: bold;
+}
+
+span {
+ color: #EE24FF;
+}
+
+a {
+    color: #3F3D56;;
+}
+
+p, #footer {
+ color: #3F3D56;
+
+ font-size: 15px;
+ line-height: 22px;
+}
+
+
+#footer a + a {
+    margin-left: 28px;
+}
+
+#line {
+    width: 568px;
+    height: 0px;
+
+    margin: 0 auto 8px;
+
+    border: 1px solid #ECEFF2;
+}
